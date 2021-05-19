@@ -1,6 +1,6 @@
 # Cézar Calzza Mussoi
 
-I'm a Software Engineering student 💻 (Baccalaureate | 3° Semester / 8) seeking knowledge in the world of programming and tecnology in general.
+Software Engineering Student (Baccalaureate | 3° Semester / 8) seeking knowledge and experience in the world of programming and tecnology in general.
 
 - Studying at PUCPR | Curitiba, PR - Brasil
 - Always seeking knowledge and information
