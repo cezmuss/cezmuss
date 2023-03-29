@@ -1,6 +1,6 @@
 # Cézar Calzza Mussoi
 
-Software Engineering Student (Baccalaureate | 4 / 8) seeking knowledge and experience in the world of programming and tecnology in general.
+Software Engineering Student (Baccalaureate | 5 / 8) seeking knowledge and experience in the world of programming and tecnology in general.
 
 - Studying at PUCPR | Curitiba, PR - Brasil
 - Seeking knowledge, information and experience
